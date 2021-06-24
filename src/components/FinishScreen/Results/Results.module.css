@@ -1,0 +1,45 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    align-items: center;
+}
+.block{
+    display: flex;
+}
+.block_item{
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
+    outline: 1px solid black;
+    margin: 0 0 10px 0;
+}
+
+.block_item>div{
+    padding: 20px;
+    width: 100%;
+    max-width: 100%;
+    min-width: 100px;
+}
+
+.headers{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    outline: 1px solid black;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.result{
+    font-weight: bold;
+}
+
+.cinephile{
+    font-weight: bold;
+}
+
+.question_item{
+    min-width: 100px;
+}
+

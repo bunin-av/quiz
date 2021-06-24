@@ -1,0 +1,23 @@
+.easy {
+    color: lightgreen;
+}
+
+.medium {
+    color: goldenrod;
+}
+
+.hard {
+    color: crimson;
+}
+
+.difficulty_font{
+    font-weight: bold;
+}
+.difficulty{
+    margin-bottom: 10px;
+}
+.question{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    font-style: italic;
+}

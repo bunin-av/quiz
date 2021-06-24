@@ -1,0 +1,18 @@
+.button {
+    border-radius: 25px;
+    border: 2px solid cornflowerblue;
+    cursor: pointer;
+    padding: 10px 20px;
+    background: white;
+    box-sizing: border-box;
+    margin: 10px 0;
+}
+
+.button:hover {
+    padding: 10px 20px;
+    transition: 0.4s;
+    box-sizing: border-box;
+    background: cornflowerblue;
+    border: 2px solid cornflowerblue;
+    color: white;
+}
